@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.ipynb_checkpoints/
+datasets/ChCh-Miner_durgbank-chem-chem.tsv.gz
